@@ -3,6 +3,8 @@ I currently have no interest in Garry's Mod 13, so this mod is naturally no long
 
 I had a lot of plans for this mod, so maybe I will continue to work on it in the future.
 
+**Update:** I will however continue to fix bugs, so please report them if you find one. I will not add new features.
+
 Have fun!
 
 # CellFone Mod
